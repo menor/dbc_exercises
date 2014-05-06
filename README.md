@@ -1,0 +1,1 @@
+Some of the exercises, I did while learning to code at [Dev Bootcamp](http://devbootcamp.com). Most of them include pseudocode and my always interesting (at least to me :) ) reflections. I'm pretty proud of some of these solutions, and probably will be ashamed of them in the future.
